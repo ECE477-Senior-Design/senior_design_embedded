@@ -1,4 +1,0 @@
-../Core/Src/MyClass.cpp:5:1:MyClass::MyClass()	16	static
-../Core/Src/MyClass.cpp:10:1:MyClass::~MyClass()	16	static
-../Core/Src/MyClass.cpp:14:6:void MyClass::setPrivateVariable(int)	16	static
-../Core/Src/MyClass.cpp:18:5:int MyClass::getPrivateVariable()	16	static

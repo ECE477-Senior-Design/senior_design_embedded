@@ -94,7 +94,7 @@ uint8_t UserRxBufferFS[APP_RX_DATA_SIZE];
 uint8_t UserTxBufferFS[APP_TX_DATA_SIZE];
 
 /* USER CODE BEGIN PRIVATE_VARIABLES */
-extern uint8_t buffer[256];
+extern uint8_t buffer[64];
 extern int sent_flag;
 
 /* USER CODE END PRIVATE_VARIABLES */
